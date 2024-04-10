@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Skills
+
+`FRONT-END`
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
+
+`BACK-END`
+
+![My Skills](https://skillicons.dev/icons?i=nodejs)
