@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 `BACK-END`
 
-![My Skills](https://skillicons.dev/icons?i=nodejs)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express)
