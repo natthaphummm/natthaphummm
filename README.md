@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 `FRONT-END`
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)
 
 `BACK-END`
 
