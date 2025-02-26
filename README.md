@@ -1,25 +1,47 @@
-### Hi there 👋
+### <h1>I'm Natthaphum, a full-stack developer 👨‍💻</h1>  
 
-<!--
-**natthaphummm/natthaphummm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 😮 I am interested in web development. 
+- 🏫 Graduated with Diploma Vocational Certificate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- Skills
+### <h4>Back-End Skills</h4>
 
-`FRONT-END`
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="32" alt="nestjs logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="32" alt="postgresql logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="32" alt="sequelize logo"  />
+</div
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)
+### <h4>Front-End Skills</h4>
 
-`BACK-END`
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=vue" height="32" alt="vuejs logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=angular" height="32" alt="angularjs logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
+</div>
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express)
+### <h3>Projects & Contributions</h3>
+
+Updating . . .
