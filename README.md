@@ -1,8 +1,7 @@
-### <h1>I'm Natthaphum, a full-stack developer 👨‍💻</h1>  
+### <h1>Hi, I'm Natthaphum (Nat)</h1>  
 
 
-- 😮 I am interested in web development. 
-- 🏫 Graduated with Diploma Vocational Certificate.
+- 😮 I am interested in web development.
 
 ### <h4>Back-End Skills</h4>
 
