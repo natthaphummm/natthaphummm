@@ -1,4 +1,4 @@
-### <h1>Hi, I'm Natthaphum (Nat)</h1>  
+### <h1>Hi, I'm Natthaphum</h1>  
 
 
 - 😮 I am interested in web development.
