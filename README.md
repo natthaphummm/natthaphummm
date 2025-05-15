@@ -2,6 +2,7 @@
 
 
 - 😮 I am interested in web development.
+- 📖 My Personal Web Blog 👉 [Eighter Blog](https://eighterdev.vercel.app/)
 
 ### <h4>Back-End Skills</h4>
 
