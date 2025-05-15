@@ -37,7 +37,5 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=vue" height="32" alt="vuejs logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=angular" height="32" alt="angularjs logo"  />
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
 </div>
