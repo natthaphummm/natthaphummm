@@ -40,7 +40,3 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
 </div>
-
-### <h3>Projects & Contributions</h3>
-
-Updating . . .
